@@ -1,0 +1,6 @@
+nohup python3 -u classify.py -train_file ../play_store_util -test_file none -fold -nb_classes 2 -emb data/embeddings/pt_word2vec_sg_600.emb -classifier linearsvm -balance > ../results/play_store_util_600SVM.res
+nohup python3 -u classify.py -train_file ../filmow_util -test_file none -fold -nb_classes 2 -emb data/embeddings/pt_word2vec_sg_600.emb -classifier mlp -balance > ../results/filmow_util_600MLP.res
+nohup python3 -u classify.py -train_file ../play_store_util -test_file none -fold -nb_classes 2 -emb data/embeddings/pt_word2vec_sg_600.emb -classifier mlp -balance > ../results/play_store_util_600MLP.res
+nohup python3 -u classify.py -train_file ../filmow_util -test_file none -fold -nb_classes 2 -emb data/embeddings/pt_word2vec_sg_600.emb -classifier randfor -balance > ../results/filmow_util_600RF.res
+nohup python3 -u classify.py -train_file ../play_store_util -test_file none -fold -nb_classes 2 -emb data/embeddings/pt_word2vec_sg_600.emb -classifier randfor -balance > ../results/play_store_util_600RF.res
+nohup python3 -u classify.py -train_file ../buscape_util -test_file none -fold -nb_classes 2 -emb data/embeddings/pt_word2vec_cbow_50.emb -classifier linearsvm -balance > ../results/buscape_util_50SVM.res

@@ -1,0 +1,22 @@
+reading  play_store_sent.pos
+113351
+113351
+repeated:  0
+reading  play_store_sent.neg
+320255
+320255
+repeated:  0
+reading  play_store_util.neg
+1168936
+896097
+repeated:  272839
+reading  play_store_util.pos
+1219102
+921257
+repeated:  297845
+1219102
+# words:  419713
+# tokens:  11919636.0
+# sentences:  921257
+921257
+Avg. tok/sent:  12.938448228887271
