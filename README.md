@@ -13,10 +13,10 @@ Se você utilizar nosso corpus pedimos que seja referenciada a publicação real
 
 BibTex:
 
-@inproceedings{sousa2019bunch,
-  title={A Bunch of Helpfulness and Sentiment Corpora in Brazilian Portuguese},
-  author={Sousa, Rogério Figueredo and Brum, Henrico Bertini and Nunes, Maria das Graças Volpe},
-  booktitle={Proceedings of Symposium in Information and Human Language Technology - STIL},
-  year={2019},
-  organization={Sociedade Brasileira de Computação}
-}
+    @inproceedings{sousa2019bunch,
+    title={A Bunch of Helpfulness and Sentiment Corpora in Brazilian Portuguese},
+    author={Sousa, Rogério Figueredo and Brum, Henrico Bertini and Nunes, Maria das Graças Volpe},
+    booktitle={Proceedings of Symposium in Information and Human Language Technology - STIL},
+    year={2019},
+    organization={Sociedade Brasileira de Computação}
+    }
