@@ -100,7 +100,7 @@ venv.bak/
 # mkdocs documentation
 /site
 
-experimento
-
 # mypy
 .mypy_cache/
+
+experimento_stil2019/
