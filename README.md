@@ -2,10 +2,6 @@
 
 Corpus de opiniões sobre filmes e aplicativos para smartphones.
 
-O corpus está disponível nos seguintes formatos:
-- Arquivos JSON: http://143.107.183.175:23780/UTLCorpus/UTLCorpus_json.zip
-- CSV: http://143.107.183.175:23780/UTLCorpus/UTLCorpus.csv
-- PICKLE: http://143.107.183.175:23780/UTLCorpus/UTLCorpus.pkl
 
 Mais informações sobre o corpus podem ser consultadas no artigo original: ``SOUSA, R. F.; BRUM, H. B.; NUNES, M. G. V. A bunch of helpfulness and sentiment corpora
 in brazilian portuguese. In: SOCIEDADE BRASILEIRA DE COMPUTAÇÃO. Proceedings of Symposium in Information and Human Language Technology - STIL. Salvador - BA, 2019.``
